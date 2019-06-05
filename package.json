@@ -10,13 +10,13 @@
     "autocreate": "^1.1.0",
     "es-class": "^2.1.1",
     "got": "^6.3.0",
-    "https-proxy-agent": "^2.1.1",
+    "https-proxy-agent": "^2.2.1",
     "object-assign": "^4.1.0",
     "should-proxy": "^1.0.4",
     "url-pattern": "^1.0.3"
   },
   "devDependencies": {
-    "coveralls": "^2.13.1",
+    "coveralls": "^3.0.3",
     "eslint": "^4.15.0",
     "eslint-config-es": "^0.8.12",
     "eslint-config-prettier": "^2.9.0",
@@ -28,11 +28,11 @@
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-security": "^1.4.0",
     "intelli-espower-loader": "^1.0.1",
-    "mocha": "^3.4.2",
-    "nyc": "^10.3.2",
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.1",
     "power-assert": "^1.4.4",
     "prettier": "^1.9.2",
-    "testdouble": "^3.1.1"
+    "testdouble": "^3.11.0"
   },
   "homepage": "https://github.com/cloudflare/node-cloudflare",
   "keywords": [
